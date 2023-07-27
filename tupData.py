@@ -3,7 +3,6 @@ tup = ("apple","mango","pine apple","orange","banana")
 for i in range(len(tup)) :
     print(tup[i].upper())
 
-
 print(range(len(tup)))
 
 print(list(range(len(tup))))
