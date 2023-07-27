@@ -11,3 +11,5 @@ match = "php","java","phthon"
 print("rose" in case)
 
 print(match[1] in match)
+print("apple" not in match)
+print("rose" not in case)
